@@ -1,18 +1,23 @@
 {
-  "name": "html_css",
+  "name": "mercadoLiebre",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagofontana00/mercadoLiebre.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1",
-    "normalize": "^0.3.1"
+  "bugs": {
+    "url": "https://github.com/santiagofontana00/mercadoLiebre/issues"
   },
-  "devDependencies": {
-    "nodemon": "^2.0.7"
+  "homepage": "https://github.com/santiagofontana00/mercadoLiebre#readme",
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
